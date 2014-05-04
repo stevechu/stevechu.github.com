@@ -30,7 +30,7 @@ theme:
   tagline: "weak opinions, strongly held"
 
   # Google Analytics key, leave blank to ignore
-  #google_analytics_key: UA-34087103-1
+  google_analytics_key: UA-50651018-1
   #google_analytics_domain: 'lenage.com'
   # Toggle "Postings are my own" disclaimer in footer
   show_disclaimer: true
