@@ -1,0 +1,36 @@
+# General Jekyll Config
+markdown: kramdown
+pygments: true
+url: http://stevechu.info
+lsi: false
+exclude: [LICENSE, CNAME, README.md, .gitignore]
+
+# Theme customization - please change from the defaults!
+theme:
+  # Color for top bar, links, etc
+  highlight_color: '#3498db'
+
+  # Profile links on the left sidebar, leave blank to ignore
+  social:
+    github: stevechu
+    #bitbucket: philipj
+    #hacker_news: lenage
+    #stackexchange: 348619
+    #stackoverflow: 348619
+    twitter: imstevechu
+    weibo: iamsteve
+    #facebook: zuck
+    #tumblr: animalygifs
+    #linkedin: philipjagielski
+    #gplus: 110552447039675960964
+
+  # "Hi, I'm _______"
+  name: Steve Chu
+  email: chujinsun@gmail.com
+  tagline: "weak opinions, strongly held"
+
+  # Google Analytics key, leave blank to ignore
+  #google_analytics_key: UA-34087103-1
+  #google_analytics_domain: 'lenage.com'
+  # Toggle "Postings are my own" disclaimer in footer
+  show_disclaimer: true
