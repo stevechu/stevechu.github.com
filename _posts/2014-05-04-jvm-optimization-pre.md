@@ -1,6 +1,7 @@
 ---
 layout: post
-title: jvm 优化
+title: jvm调优
+tags: jvm 优化
 category: java
 ---
 ###JVM调优
