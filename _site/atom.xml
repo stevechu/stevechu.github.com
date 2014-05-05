@@ -4,7 +4,7 @@
  <title>The blog of Steve Chu</title>
  <link href="http://stevechu.info/atom.xml" rel="self"/>
  <link href="http://stevechu.info"/>
- <updated>2014-05-05T01:21:10+08:00</updated>
+ <updated>2014-05-05T12:21:13+08:00</updated>
  <id>http://stevechu.info</id>
  <author>
    <name>Steve Chu</name>
@@ -13,14 +13,11 @@
 
  
  <entry>
-   <title>jvm 优化</title>
+   <title>jvm调优</title>
    <link href="http://stevechu.info/java/2014/05/04/jvm-optimization-pre.html"/>
    <updated>2014-05-04T00:00:00+08:00</updated>
    <id>http://stevechu.info/java/2014/05/04/jvm-optimization-pre</id>
-   <content type="html">&lt;h3 id=&quot;jvm&quot;&gt;JVM调优&lt;/h3&gt;
-&lt;p&gt;@[jvm|优化]&lt;/p&gt;
-
-&lt;p&gt;Base：jvm结构，gc机制&lt;/p&gt;
+   <content type="html">&lt;p&gt;Base：jvm结构，gc机制&lt;/p&gt;
 
 &lt;pre&gt;&lt;code&gt;堆
 &lt;/code&gt;&lt;/pre&gt;

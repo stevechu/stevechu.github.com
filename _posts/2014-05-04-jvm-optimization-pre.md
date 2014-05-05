@@ -4,8 +4,6 @@ title: jvm调优
 tags: jvm 优化
 category: java
 ---
-###JVM调优
-@[jvm|优化]
 
 Base：jvm结构，gc机制
 
